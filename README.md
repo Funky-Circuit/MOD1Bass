@@ -22,8 +22,7 @@ https://github.com/adafruit/adafruit_seesaw
 
 
 how to assemble this project:
-1. you will need this board with the bottom side preassembled:
-link here
+1. you will need the board indicated in the link section below with the bottom side preassembled
 
 2. get 4 Atmega328p: for each of them, you will need to burn the bootloader and upload the file "MOD1Bass_fretboard.ino" into them (to do so, you will need an external programmer or an Arduino who is going to act as a programmer thanks to the Arduino IDE example "ArduinoISP")
 
