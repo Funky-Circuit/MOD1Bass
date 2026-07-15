@@ -25,7 +25,7 @@ https://github.com/adafruit/adafruit_seesaw
 
 how to assemble this project:
 
-1. you will need the PCB contained in the EasyEDA "PCB_MOD1Bass_B.json" file with the bottom side preassembled. it will be refered as fretboard
+1. you will need the PCB contained in the "PCB_MOD1Bass_B.json" file (that you can open in the software EasyEDA) with the bottom side preassembled. it will be refered as fretboard.
 
 2. get 4 Atmega328p: for each of them, you will need to burn the bootloader and upload the file "MOD1Bass_fretboard.ino" into them. to do so, you will need an external programmer or an Arduino who is going to act as a programmer thanks to the Arduino IDE example "ArduinoISP". you will need to conect an external 16MHz clock to the Atmega328p and then burn the appropriate bootloader from the minicore board selection.
 
