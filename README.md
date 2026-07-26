@@ -5,6 +5,12 @@ Bass guitar inspired USB and BLE MIDI controller based on an Adafruit Feather ES
 -- -- --
 
 
+a bass model was designed fo this project. you can find all the files needed in the "MOD1Bass_models" folder and print them or create you own model
+
+
+-- -- --
+
+
 all the code for this project was made using the Arduino IDE and the following libraries:
 - MiniCore:
 https://github.com/mcudude/minicore
