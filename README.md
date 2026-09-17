@@ -1,5 +1,6 @@
 # MOD1Bass
 Bass guitar inspired USB and BLE MIDI controller based on an Adafruit Feather ESP32-S3 board
+(demo here: https://github.com/user-attachments/assets/1c9dc869-d182-4a1c-bf89-e89e9eab036d)
 
 
 -- -- --
@@ -44,13 +45,3 @@ how to assemble this project:
 6. connect 4 force sensitive resistors (FSRs) to A0, A1, A2 and A3 of the Adafruit Feather ESP32-S3 board, with a 10k pulldown resistor on the signal each. starting from A0 on the left, dispose the FSRs next to each other in the order they where connected (A0, then A1, then A2 and to fnish A3). the other pin of the FSRs needs to be connected to one of the 3V pin of the Adafruit Feather ESP32-S3 board.
 
 7. connect toggle switch (with one pin on the A4 pin and the other pin on the 3V pin) and a li-po battery to the Adafruit Feather ESP32-S3 board (there is a JST 2-PH port made specificaly for power input)
-
-
--- -- --
-
-
-demo here:
-https://github.com/user-attachments/assets/1c9dc869-d182-4a1c-bf89-e89e9eab036d
-
-
-
